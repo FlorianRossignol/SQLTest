@@ -1,0 +1,4 @@
+{"name": "sql",
+    "version-string": "1.0",
+    "dependencies": ["qt6"]
+}
